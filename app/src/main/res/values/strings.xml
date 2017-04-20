@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Callbacks</string>
+    <string name="onStart">onStart</string>
+    <string name="onStop">onStop</string>
+    <string name="onRestart">onRestart</string>
+    <string name="onResume">onResume</string>
+    <string name="onPause">onPause</string>
+    <string name="onDestroy">onDestroy</string>
+    <string name="onCreated">onCreated</string>
+</resources>
